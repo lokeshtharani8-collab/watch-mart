@@ -1,0 +1,6 @@
+{
+  "name": "THE WATCH MART - Premium Watch Store",
+  "description": "Discover and shop premium watches from trusted global brands like Casio, Titan, Sonata, Fastrack, Timex, Fossil, and Tommy Hilfiger at THE WATCH MART.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
